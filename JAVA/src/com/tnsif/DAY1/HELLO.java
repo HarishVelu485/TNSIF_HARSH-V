@@ -1,4 +1,4 @@
-package DAY1;
+package com.tnsif.DAY1;
 
 public class HELLO {
 
